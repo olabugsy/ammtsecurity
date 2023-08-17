@@ -1,0 +1,177 @@
+/* CSS code 
+
+body {
+    background-image: url('https://img.freepik.com/free-photo/portrait-male-security-guard-with-uniform_23-2150368713.jpg?w=2000&t=st=1691444347~exp=1691444947~hmac=0550d8984cc7643ca871d96bad6de542dca591ee5b9cc4b1ff8e1968a3e37a61');
+    background-position: center;
+    
+}*/
+
+.container-fluid{
+  background-color: rgb(211, 208, 243);
+}
+
+.card-text{
+  color: rgb(18, 27, 77);
+  font-size:small;
+  font-style: oblique;
+  font-weight: 400;
+}
+
+.introatservice{
+  color: rgb(18, 27, 77);
+  font-size:small;
+  font-weight: 500;
+}
+
+.card-header{
+  background-color: rgb(211, 208, 243);
+}
+
+/*********/
+.contact-topic{
+  font-weight: bolder;
+  text-align: center;
+  font-weight: 700;
+}
+
+.contact-information{
+  font-size: small;
+  color: #291202;
+  text-align: center;
+  text-transform: lowercase;
+}
+
+.contactpage{
+  background-color: rgb(211, 208, 243);
+
+}
+
+
+/**************/
+
+#about-heading{
+  color: rgb(61, 3, 3);
+  font-weight: 800;
+  text-align: center;
+  font-size: xx-large;
+}
+
+
+.aboutus {
+    
+  font-size: small;
+  font-weight: 500;
+  display: flex;
+  justify-content: space-around;
+  color: rgb(46, 31, 2);
+
+}
+
+img{
+  
+  width: 141%;
+  height: 100%;
+}
+
+
+
+
+#aboutusp{
+  
+}
+
+
+
+
+#unarmd{
+  color: rgb(133, 129, 230);
+}
+
+.row{
+  justify-content: space-between;
+}
+
+.headng-nav {
+    background-color:#0dccf0;
+    color: #fff;
+    padding: 10px 0;
+} 
+  
+
+
+.mainbody{
+    
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+  .headng-logo img {
+    height: 50px;
+    width: 50px;
+  }
+  
+  
+
+  
+
+  #ourmission.p{
+    font-size: larger;
+    font-weight: 500;
+    font-style: italic;
+  }
+
+  .navbar {
+    background-color: #363e47;
+    padding: 10px;
+  }
+  
+  .navbar-brand {
+    color: #212529;
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #212529;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #0d6efd;
+  }
+  
+  .dropdown-menu {
+    background-color: rgb(62, 160, 147);
+    color: #212529;
+  }
+  
+  .dropdown-item {
+    color: #212529;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #f8f9fa;
+  }
+
+  
+
+
+
+#contactinformation{
+  margin-left: 10px;
+  font-weight: 200;
+}
+
+.footer {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+  .contact-topic{
+    font-weight: 200;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+  }
+
+*/
